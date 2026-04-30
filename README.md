@@ -25,8 +25,8 @@ This project presents a professional phishing email analysis and awareness repor
 ## Repository Structure
 - Report (PDF)
 - Dataset (CSV)
-- Sample Emails
-- Supporting Evidence
+- Phishing analysis using python
+- Phishing indicators
 
 ## Disclaimer
 All email samples are sourced from publicly available datasets used for educational and cybersecurity awareness purposes. No real user data is exposed.
