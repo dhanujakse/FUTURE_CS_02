@@ -20,7 +20,7 @@ This project presents a professional phishing email analysis and awareness repor
 - Manual Email Analysis
 - Email Header Analysis (Google Admin Toolbox)
 - Dataset Analysis (CSV)
-- Documentation (MS Word / PDF)
+- Documentation (PDF)
 
 ## Repository Structure
 - Report (PDF)
